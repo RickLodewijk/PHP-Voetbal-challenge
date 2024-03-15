@@ -1,0 +1,36 @@
+*{ 
+    background-color: blanchedalmond;
+    text-align:center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tabeleen {
+    border-style: solid; 
+}
+.thuis{
+    background-color: blueviolet;
+}
+.uit{
+    background-color: yellow;
+}
+.uitslag {
+    background-color: rgb(245, 135, 216);
+}
+.key {
+    background-color: aqua;
+}
+.value {
+    background-color: rgb(6, 255, 6);
+}
+.gespeeld {
+    background-color: rgb(255, 0, 0);
+}
+.club {
+    background-color: gold;
+}
+.punten {
+    background-color: fuchsia;
+}
+.gespeeld{
+    background-color: orange;
+}
